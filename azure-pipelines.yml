@@ -37,7 +37,7 @@ steps:
   displayName: 'Use Python $(python.version)'
 
 
-- script: python "sumnumpy.py"
+- script: python "app.py"
 
 
 
